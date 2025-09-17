@@ -22,6 +22,10 @@ Gosto de resolver problemas complexos com código limpo e de aprender constantem
     * **Link para o repositório:** [https://github.com/nunesjr/meu-projeto-firebird.git]
     * **Link para o projeto em produção (HTTP):** [http://www.frutosdaterra.com.br]
 
+* **Validação de Formulário:** Um projeto simples e direto que demonstra a validação de formulários utilizando as tecnologias web mais fundamentais: **HTML**, **CSS** e **JavaScript**. Este projeto foi desenvolvido como parte de um curso, focado em aprimorar as habilidades de validação de dados de entrada do usuário de forma eficiente e responsiva.
+    * **Link para o repositório:** [https://github.com/nunesjr/validaformulario.git]
+    * **Link para o projeto em produção:** [https://validaformulario.netlify.app/]
+
 
 ### 📈 Estatísticas do GitHub
 
