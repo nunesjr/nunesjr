@@ -1,22 +1,28 @@
-## Hi there 👋
+### Olá! 👋 Sou o Marco Antonio
 
-<div>
-<a href="https://github.com/nunesjr">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunesjr&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=nunesjr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+---
 
-<!--
-**nunesjr/nunesjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Sobre mim
 
-Here are some ideas to get you started:
+Olá! Sou o Marco Antonio, Futuro Desenvolvedor de Software apaixonado por programação. Minha jornada começou na área de jogos eletrônicos, onde criei servidores privados para jogos como GTA V (FiveM), desenvolvendo e adaptando projetos com Lua, JavaScript, CSS e HTML. Tive também a oportunidade de contribuir para projetos de servidores alternativos de Tibia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Gosto de resolver problemas complexos com código limpo e de aprender constantemente. Atualmente, estou focado em aprimorar minhas habilidades em React e Node.js para o desenvolvimento de aplicações web.
+
+### 🛠️ Minhas Habilidades
+
+* **Linguagens de Programação:** JavaScript, Lua
+* **Front-end:** HTML, CSS, React
+* **Back-end:** Node.js
+* **Bancos de Dados:** MySQL, SQLite, Firebird
+* **Ferramentas & Outros:** Git
+
+### ✨ Projetos em Destaque
+
+* **Sistema de Gestão Frutos da Terra:** Este é um sistema de gestão completo, desenvolvido para se conectar a um banco de dados Firebird existente e fornecer uma interface web moderna e responsiva para visualização e gerenciamento de dados críticos do negócio. A aplicação é construída com uma arquitetura robusta usando **Node.js** no backend e **React** no frontend.
+    * **Link para o repositório:** [https://github.com/nunesjr/meu-projeto-firebird.git]
+    * **Link para o projeto em produção (HTTP):** [http://www.frutosdaterra.com.br]
+
+
+### 📈 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=nunesjr&show_icons=true&theme=default)
