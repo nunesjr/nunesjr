@@ -20,7 +20,7 @@ Gosto de resolver problemas complexos com código limpo e de aprender constantem
 
 * **Sistema de Gestão Frutos da Terra:** Este é um sistema de gestão completo, desenvolvido para se conectar a um banco de dados Firebird existente e fornecer uma interface web moderna e responsiva para visualização e gerenciamento de dados críticos do negócio. A aplicação é construída com uma arquitetura robusta usando **Node.js** no backend e **React** no frontend.
     * **Link para o repositório:** [https://github.com/nunesjr/firebird-erp-node.git]
-    * **Link para o projeto em produção (HTTP):** [http://www.frutosdaterra.com.br]
+    * **Link para o projeto em produção :** [https://www.frutosdaterra.com.br]
 
 * **Validação de Formulário:** Um projeto simples e direto que demonstra a validação de formulários utilizando as tecnologias web mais fundamentais: **HTML**, **CSS** e **JavaScript**. Este projeto foi desenvolvido como parte de um curso, focado em aprimorar as habilidades de validação de dados de entrada do usuário de forma eficiente e responsiva.
     * **Link para o repositório:** [https://github.com/nunesjr/validaformulario.git]
