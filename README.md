@@ -27,7 +27,7 @@ System that analyzes ERP data and generates insights for decision-making
 
 ### 🎟️ Ticket Sales Platform
 Online ticketing system with event management and sales tracking  
-
+🔗 https://github.com/nunesjr/ticket-sales-platform
 ---
 
 ## 🛠️ Tech Stack
