@@ -3,6 +3,8 @@
 💻 Web Developer building real-world systems  
 🚀 Focused on ERP, E-commerce and Scalable Platforms
 
+I build systems used in real business operations, focusing on performance, scalability and business impact.
+
 ---
 
 ## 🧠 About Me
@@ -41,5 +43,3 @@ System that analyzes ERP data and generates insights for decision-making
 
 ## 🌎 Goal
 Working remotely with international projects and building scalable SaaS solutions.
-
-I build systems used in real business operations, focusing on performance, scalability and business impact.
