@@ -1,36 +1,43 @@
-### Olá! 👋 Sou o Marco Antonio
+# 👋 Hi, I'm Marco Antonio
+
+💻 Web Developer focused on building real-world systems  
+🚀 Specialized in ERP, E-commerce and Business Platforms  
 
 ---
 
-### 💻 Sobre mim
+## 🧠 About Me
+I develop complete web solutions used in real business operations, including ERP systems, dashboards, and ticket platforms.
 
-Olá! Sou o Marco Antonio, Futuro Desenvolvedor de Software apaixonado por programação. Minha jornada começou na área de jogos eletrônicos, onde criei servidores privados para jogos como GTA V (FiveM), desenvolvendo e adaptando projetos com Lua, JavaScript, CSS e HTML. Tive também a oportunidade de contribuir para projetos de servidores alternativos de Tibia.
+I focus on solving business problems through technology, building scalable and functional systems.
 
-Gosto de resolver problemas complexos com código limpo e de aprender constantemente. Atualmente, estou focado em aprimorar minhas habilidades em React e Node.js para o desenvolvimento de aplicações web.
+---
 
-### 🛠️ Minhas Habilidades
+## 🚀 Featured Projects
 
-* **Linguagens de Programação:** JavaScript, Lua
-* **Front-end:** HTML, CSS, React
-* **Back-end:** Node.js
-* **Bancos de Dados:** MySQL, SQLite, Firebird
-* **Ferramentas & Outros:** Git
+### 🏬 ERP & E-commerce Platform
+Complete system for managing retail operations and online sales  
+🔗 https://github.com/nunesjr/erp-ecommerce-platform  
 
-### ✨ Projetos em Destaque
+---
 
-* **Sistema de Gestão Frutos da Terra:** Este é um sistema de gestão completo, desenvolvido para se conectar a um banco de dados Firebird existente e fornecer uma interface web moderna e responsiva para visualização e gerenciamento de dados críticos do negócio. A aplicação é construída com uma arquitetura robusta usando **Node.js** no backend e **React** no frontend.
-    * **Link para o repositório:** [https://github.com/nunesjr/firebird-erp-node.git]
-    * **Link para o projeto em produção :** [https://www.frutosdaterra.com.br]
+### 📊 Business Intelligence Dashboard
+System that analyzes ERP data and generates insights for decision-making  
 
-* **Validação de Formulário:** Um projeto simples e direto que demonstra a validação de formulários utilizando as tecnologias web mais fundamentais: **HTML**, **CSS** e **JavaScript**. Este projeto foi desenvolvido como parte de um curso, focado em aprimorar as habilidades de validação de dados de entrada do usuário de forma eficiente e responsiva.
-    * **Link para o repositório:** [https://github.com/nunesjr/validaformulario.git]
-    * **Link para o projeto em produção:** [https://validaformulario.netlify.app/]
+---
 
+### 🎟️ Ticket Sales Platform
+Online ticketing system with event management and sales tracking  
 
-### 📈 Estatísticas do GitHub
+---
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=nunesjr&show_icons=true&theme=default)
-<div>
-<a href="https://github.com/nunesjr">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunesjr&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+## 🛠️ Tech Stack
+- PHP / Node.js  
+- JavaScript  
+- MySQL / Firebird  
+- REST APIs  
+- SMTP / Integrations  
+
+---
+
+## 🌎 Goal
+Working remotely with international projects and building scalable SaaS solutions.
